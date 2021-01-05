@@ -1,1 +1,1 @@
-alert('Hola desde JavaScript')
+alert('Masters of Hardcore')
